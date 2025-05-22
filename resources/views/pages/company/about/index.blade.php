@@ -2,7 +2,7 @@
 @section('content')
 @section('title', 'Tentang Kami')
 <!-- Breadcrumb Begin -->
-<div class="breadcrumb-section">
+<div class="breadcrumb-section ">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -18,7 +18,7 @@
 
 <!-- About Section Begin -->
 <section class="about-section spad">
-    <div class="container">
+    <div class="container mt-5">
         <div class="row">
             <div class="col-lg-6">
                 <div class="about__img">

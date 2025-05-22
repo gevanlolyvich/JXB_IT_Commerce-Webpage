@@ -13,8 +13,8 @@
                   <div class="col-lg-6
                               col-md-6">
                       <div class="footer__top-auth">
-                          <a href="https://wa.link/x05vgu" target="_blank" class="primary-btn sign-up">Kontak</a>
-                          <a href="https://wa.link/wp3nbj" target="_blank" class="primary-btn">Ajukan Demo</a>
+                          <a href="https://wa.link/lkxugz" target="_blank" class="primary-btn sign-up">Kontak</a>
+                          <a href="https://wa.link/kk4nfz" target="_blank" class="primary-btn">Ajukan Demo</a>
                       </div>
                   </div>
               </div>
@@ -64,7 +64,7 @@
                                   Cemp. Putih Bar., Kec. Cemp. Putih
                                   Kota Jakarta Pusat, 10520
                                   Daerah Khusus Ibukota Jakarta</li>
-                              <li><span class="fa fa-mobile"></span> +62 896 0364 1693</li>
+                              <li><span class="fa fa-mobile"></span> +62 851 7980 0682</li>
                               <li><span class="fa fa-headphones"></span> hello@jxboard.com</li>
                           </ul>
                       </div>

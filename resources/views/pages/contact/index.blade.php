@@ -18,7 +18,7 @@
 
 <!-- Contact Section Begin -->
 <section class="contact-section spad" style="margin-bottom: 100px">
-    <div class="container">
+    <div class="container mt-5">
         <div class="row">
             <div class="col-lg-4">
                 <div class="contact__text">
@@ -38,7 +38,7 @@
                         <li>
                             <span class="fa fa-mobile"></span>
                             <h5>Telepon</h5>
-                            <p>+62 896 0364 1693</p>
+                            <p>+62 851 7980 0682</p>
                         </li>
                         <li>
                             <span class="fa fa-envelope"></span>

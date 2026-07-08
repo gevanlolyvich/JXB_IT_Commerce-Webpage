@@ -34,7 +34,7 @@
                         dan pertumbuhan bisnis. Baik Anda perlu mengembangkan aplikasi perangkat lunak baru,
                         meningkatkan infrastruktur TI yang ada, atau meningkatkan keamanan siber Anda, kami memiliki
                         keahlian untuk membantu.</p>
-                    <a href="https://wa.link/x05vgu" class="primary-btn">Ayo Mulai Sekarang</a>
+                    <a href="https://wa.link/laet80" class="primary-btn">Ayo Mulai Sekarang</a>
                 </div>
             </div>
         </div>

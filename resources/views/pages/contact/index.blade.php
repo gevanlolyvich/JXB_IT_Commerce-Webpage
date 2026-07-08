@@ -38,7 +38,7 @@
                         <li>
                             <span class="fa fa-mobile"></span>
                             <h5>Telepon</h5>
-                            <p>+62 851 7980 0682</p>
+                            <p>+62 818 301 075</p>
                         </li>
                         <li>
                             <span class="fa fa-envelope"></span>

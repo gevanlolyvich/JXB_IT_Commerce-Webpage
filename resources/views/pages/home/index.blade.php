@@ -12,7 +12,7 @@
                             <div class="section-title-neo" style="color: #041638">DIGIPRO by Jakarta Experience
                                 Board</div>
                             <h2>Digitalisasi Bisnis Anda<br /> Bersama Kami</h2>
-                            <a href="https://wa.link/x05vgu" target="_blank" class="primary-btn">Ayo Mulai Sekarang</a>
+                            <a href="https://wa.link/laet80" target="_blank" class="primary-btn">Ayo Mulai Sekarang</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -31,7 +31,7 @@
                             <div class="section-title-neo" style="color: #01803a">DIGIPRO by Jakarta Experience
                                 Board</div>
                             <h2>Human Resource<br /> Information System</h2>
-                            <a href="https://wa.link/wp3nbj" class="primary-btn">Ayo Mulai Sekarang</a>
+                            <a href="https://wa.link/laet80" class="primary-btn">Ayo Mulai Sekarang</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -50,7 +50,7 @@
                             <div class="section-title-neo" style="color: #bb2e1b">DIGIPRO by Jakarta Experience
                                 Board</div>
                             <h2>Customer Relationship<br /> Management</h2>
-                            <a href="https://wa.link/wp3nbj" class="primary-btn">Ayo Mulai Sekarang</a>
+                            <a href="https://wa.link/laet80" class="primary-btn">Ayo Mulai Sekarang</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -69,7 +69,7 @@
                             <div class="section-title-neo" style="color: #f0a211">DIGIPRO by Jakarta Experience
                                 Board</div>
                             <h2>Integrated FInancial <br /> Monitoring Dashboard</h2>
-                            <a href="https://wa.link/wp3nbj" class="primary-btn">Ayo Mulai Sekarang</a>
+                            <a href="https://wa.link/laet80" class="primary-btn">Ayo Mulai Sekarang</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -88,7 +88,7 @@
                             <div class="section-title-neo" style="color: #af0e71">DIGIPRO by Jakarta Experience
                                 Board</div>
                             <h2>IT Media & Software<br /> Solution</h2>
-                            <a href="https://wa.link/wp3nbj" class="primary-btn">Ayo Mulai Sekarang</a>
+                            <a href="https://wa.link/laet80" class="primary-btn">Ayo Mulai Sekarang</a>
                         </div>
                     </div>
                     <div class="col-lg-6">

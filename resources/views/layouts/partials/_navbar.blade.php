@@ -36,7 +36,7 @@
     </div>
     <div class="offcanvas__info">
         <ul>
-            <li><span class="icon_phone"></span> +62 896 0364 1693</li>
+            <li><span class="icon_phone"></span> +62 818-301-075</li>
             <li><span class="fa fa-envelope"></span> hello@jxboard.com</li>
         </ul>
     </div>
@@ -53,7 +53,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="header__info-left">
                         <ul>
-                            <li><span class="icon_phone"></span> +62 896 0364 1693</li>
+                            <li><span class="icon_phone"></span> +62 818-301-075</li>
                             <li><span class="fa fa-envelope"></span> hello@jxboard.com</li>
                         </ul>
                     </div>

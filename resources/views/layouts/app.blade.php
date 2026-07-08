@@ -11,7 +11,7 @@
         <div class="loader"></div>
     </div>
 
-    <a href="https://wa.link/lkxugz" class="float-wa" target="_blank">
+    <a href="https://wa.link/laet80" class="float-wa" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
     </a>
 
